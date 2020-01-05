@@ -12,10 +12,10 @@ planets.
 
 4 mock api has been consumed in this solution. Below is the list:-
     * List of planets:- https://findfalcone.herokuapp.com/planets
-    * List of space vehicles:- https://findfalcone.herokuapp.com/vehicles
-    * Token Generation:- https://findfalcone.herokuapp.com/token
-    * find falcone API :- https://findfalcone.herokuapp.com/find
-    
+      List of space vehicles:- https://findfalcone.herokuapp.com/vehicles
+      Token Generation:- https://findfalcone.herokuapp.com/token
+      Find falcone API :- https://findfalcone.herokuapp.com/find
+    *
 ## Steps to run
 
 `
